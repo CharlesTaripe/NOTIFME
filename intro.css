@@ -7,10 +7,30 @@
 }
 
 body {
-    background: url("network_-_45961\ \(Original\).gif");
     background-size: cover;
     background-attachment:fixed;
 }
+.background {
+  
+    position
+    :
+     absolute
+    ;
+      
+    display
+    :
+     block
+    ;
+      
+    top
+    : 0;
+      
+    left
+    : 0;
+      
+    z-index
+    : 0;
+    }
 #lugo{
     height: 20vh;
     display: flex;
